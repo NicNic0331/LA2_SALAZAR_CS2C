@@ -18,7 +18,7 @@ class Student {
   }
   
   //Create instances of Student class for each persona.
-  let student1 = new Student("Princess Nicole", "Garabilez", "Salazar", "March 31, 2002", "Paras, Candon City, Ilocos Sur, Phillippines, 2710", "Poblacion Norte, Salcedo, Ilocos Sur, Philippines, 2711", "Bachelor of Science in Computer Science", "2nd Year", "Software Engineer");
+  let student1 = new Student("Princess Nicole", "Garabilez", "Salazar", "March 31, 2002", "Paras, Candon City, Ilocos Sur, Philippines, 2710", "Poblacion Norte, Salcedo, Ilocos Sur, Philippines, 2711", "Bachelor of Science in Computer Science", "2nd Year", "Software Engineer");
   let student2 = new Student("Joshua", "Morales", "Toquero", "September 25, 2005", " Dela Paz Norte, San Fernando City, Pampanga, Philippines, 2000", "Patpata, Candon City, Ilocos Sur, Philippines, 2710", "Bachelor of Science in Computer Science", "2nd Year", "Game Developer");
   let student3 = new Student("Rolly Mae", "Morales", "Caay", "April 11, 2005", "Barangobong, Santa Lucia, Ilocos Sur, Philippines, 2712", "Paras, Candon City, Ilocos Sur, Philippines, 2710", "Bachelor of Science in Computer Science", "2nd Year", "Computer Engineer");
   
